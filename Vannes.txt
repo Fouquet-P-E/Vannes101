@@ -3,3 +3,7 @@
 « T'as Tor ?
 - Oui souvent avec mon chef !
 - T'as raison alors, mais ce ne sont pas mes oignons. »
+
+« — Savez-vous qui est Bob Marlex ?
+— Euh…
+— Bah, c'est un chanteur de regex. »
