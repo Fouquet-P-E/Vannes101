@@ -1,1 +1,7 @@
 012345678910 
+a = 0
+b = 0
+if a > b:
+	print(a "is the solution")
+else:
+	print(b "is the solution")
